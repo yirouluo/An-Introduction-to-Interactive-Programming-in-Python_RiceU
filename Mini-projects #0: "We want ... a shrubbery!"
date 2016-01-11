@@ -1,0 +1,8 @@
+print "We want ... a shrubbery!"
+
+## This task is pretty simple for learners to complete. However, what you need to know is that
+## there is an important difference between python 2 and python 3 about "print".
+## In the online course, we submit our assignments via CodeSkulptor, which execute python 2.
+## If you use python 3 on your own computer, you should write code like this:
+
+print("We want ... a shrubbery!")
